@@ -8,7 +8,7 @@ MTG Card Collection Handler is a website where You can browse through the wise c
 
 > This repository holds only the server-side code written with C# as an ASP.NET web API.
 >
-> If You want to interact with it with a nice UI, [setup the front-end](https://github.com/Szpoti/mtg-card-collection-handler-ui#setup) too.
+> If You want to interact with it with a nice UI, [setup the front-end](https://github.com/PoLaKoSz/mtg-card-collection-handler-ui#setup) too.
 
 ## Technologies
 
